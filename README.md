@@ -1,7 +1,7 @@
 
 ## ¡Hola! mi nombre es Emilmar Cuarez y soy estudiante de ingeniería de sistemas
 
-<p>Actualmente estoy cursando 6to semestre de ingeniería de sistemas y me estoy formando para ser una Desarrolladora web full-satck. Tengo conocimientos avanzados en Java y MySQL</p>
+<p>Actualmente estoy cursando 6to semestre de ingeniería de sistemas y me estoy formando para ser una Desarrolladora web full-satck. Tengo conocimientos avanzados en Java, c++ y en creación de páginas web</p>
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-fafa3c?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)&nbsp;
